@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: 'Libre Bodoni', serif;
+}
+
+.container{
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+}
+
+h1{
+    font-size: 60px;
+    margin: 10px 0;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+.f1{
+    margin-top: 20px;
+}
+
+#gonder{
+    margin: 20px 0 50px 120px;
+    width: 100px;
+    height: 30px;
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+}
+
+#gonder:hover{
+    background-color: rgba(219, 118, 118, 0.953);
+}
+
+
+
